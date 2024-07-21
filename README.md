@@ -1,6 +1,6 @@
 # Hangman - Documentation
 
-Projet réalisé par Elouan CHEDALLEUX.
+Projet réalisé seul.
 
 ## Sommaire
 I. [Rappel du Projet](#i-rappel-du-projet)  
